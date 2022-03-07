@@ -4,6 +4,6 @@ I'm a junior dev with a passion for back-end development. I have experience crea
 
 ### Details
 - 💻 **I’m currently working on:** Terminal application (Ruby) 
-- ☘️ I have experience in: Javascript, MERN, Python, Ruby, Docker, Git, Cloud.
-- 💬 How to reach me: [LinkedIn](https://www.linkedin.com/in/marlonmoreira/)
-- 💥 Fun fact: I was born in Brazil!
+- ☘️ **I have experience in:** Javascript, MERN, Python, Ruby, Docker, Git, Cloud.
+- 💬 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/marlonmoreira/)
+- 💥 **Fun fact:** I was born in Brazil!
