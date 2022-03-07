@@ -1,7 +1,5 @@
 ## Hi, nice to meet you ☺️
 
-### About me.
-
 I'm a junior dev with a passion for back-end development. I have experience in full-stack development and data science. Feel free to check out some of my projects or shoot me a message on my linkedin below!
 
 ### Details
