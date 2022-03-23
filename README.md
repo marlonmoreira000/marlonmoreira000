@@ -1,4 +1,4 @@
-## Hi, nice to meet you ☺️
+## Hi, nice to https://github.com/marlonmor## Hi! 
 
 I'm a junior dev with a passion for back-end development. I have experience creating full-stack apps, as well as data science. Feel free to check out some of my projects or shoot me a message on my linkedin below!
 
