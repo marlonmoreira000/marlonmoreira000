@@ -6,4 +6,4 @@ I'm a junior dev with a passion for all things software engineering! I have expe
 - 💻 **I’m currently working on:** Learning C# and AWS
 - ☘️ **I have experience in:** Javascript, MongoDB, React, NodeJS, ExpressJS, Python, Ruby, Docker, CI/CD, Git, APIs
 - 💬 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/marlonmoreira/)
-- 💥 **Fun fact:** I was born in Brazil!
+- 💥 **Fun fact:** I used to be a soldier!
