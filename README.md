@@ -4,6 +4,6 @@ I'm a software engineer with a passion for building cloud-native apps! Feel free
 
 ### Details
 - 💻 **I’m currently working on:** AWS SAA Certification
-- ☘️ **I have experience in:** Java, Python, MongoDB, Postgres, Node.js, Docker, Git, Terraform, GCP.
+- ☘️ **I have experience in:** Java, Python, MongoDB, Postgres, Node.js, Docker, Git, Terraform, AWS/GCP
 - 💬 **How to reach me:** Feel free to shoot me a message on [LinkedIn](https://www.linkedin.com/in/marlonmoreira/)
 - 💥 **Fun fact:** I used to be a soldier!
