@@ -1,6 +1,6 @@
 ## Hi! 👋 
 
-I'm a software engineer with a passion for devops and data engineering! Feel free to check out some of my repos or contact me on my linkedin below!
+I'm a software engineer with a passion for data engineering! Feel free to check out some of my repos or contact me on my linkedin below!
 
 ### Details
 - 💻 **I’m currently working on:** Learning Kubernetes
